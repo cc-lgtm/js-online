@@ -1,7 +1,7 @@
-import sidebar from './sidebar/sidebar'
-import navbar from './navbar/navbar'
+import Sidebar from './sidebar/sidebar'
+import Navbar from './navbar/navbar'
 
 export {
-  sidebar,
-  navbar
+  Sidebar,
+  Navbar
 }
